@@ -60,9 +60,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
+                <element signature="e#55#56#0" expanded="true" />
                 <element signature="e#98#99#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
                 <element signature="e#230#231#0" expanded="true" />
@@ -95,6 +96,9 @@
       <find>Sound</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,6 +116,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -125,35 +130,6 @@
             <path>
               <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJenkins" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,33 +161,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestClass.test1">
+  <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/TestJenkins/src/test/resources/TestNG.xml">
     <configuration name="SDFSDFSDF.sound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;SDFSDFSDF.sound&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;Test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -246,6 +202,16 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="C:/Users/user/IdeaProjects/TestJenkins/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestJenkins.test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestClass.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestJenkins.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -272,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/TestJenkins/src/test/resources/TestNG.xml" />
         <item itemvalue="TestNG.TestClass.test1" />
         <item itemvalue="TestNG.TestClass.test2" />
         <item itemvalue="Gradle.TestClass.test2" />
         <item itemvalue="Gradle.SDFSDFSDF.sound" />
-        <item itemvalue="Gradle.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -291,6 +257,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562661781656</updated>
     </task>
+    <task id="LOCAL-00001" summary="Go">
+      <created>1562663120931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562663120931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -317,7 +291,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-1" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-1" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -325,7 +299,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -334,7 +308,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,6 +323,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gradlew.bat">
@@ -369,9 +347,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
+            <element signature="e#55#56#0" expanded="true" />
             <element signature="e#98#99#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
