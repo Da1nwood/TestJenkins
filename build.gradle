@@ -16,4 +16,8 @@ dependencies {
     testCompile group: 'org.testng', name: 'testng', version: '6.7'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
 }
-
+test {
+    useTestNG() {
+        suites 'src/test/resources/TestNG.xml'
+    }
+}
