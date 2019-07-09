@@ -16,4 +16,9 @@ dependencies {
     testCompile group: 'org.testng', name: 'testng', version: '6.7'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
 }
-
+task smokeTests(type: Test) { // we define a task with name ‘smokeTests’
+    useTestNG() {
+        useDefaultListeners = true
+        suites 'src/test/resources/TestNG.xml'
+    }
+}
